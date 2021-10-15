@@ -4,15 +4,15 @@ public  abstract class Carroceria {
 
     public String Carroceria;
 
-    public abstract String mostrarcarroceria();
+    public abstract String mostrarCarroceria();
 
     public String getCarroceria()
     {
         return Carroceria;
     }
 
-    public void setCarroceria(String motor)
+    public void setCarroceria(String Carroceria)
     {
-        this.Carroceria = motor;
+        this.Carroceria = Carroceria;
     }
 }
