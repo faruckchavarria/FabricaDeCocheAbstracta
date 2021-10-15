@@ -1,5 +1,8 @@
 package org.faruck;
 
-public class CocheFactory {
-    
+public interface CocheFactory {
+    public Motor crearMotor();
+    public Carroceria crearCarroceria;
+    public Rines crearRines; 
+
 }
