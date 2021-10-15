@@ -4,7 +4,7 @@ public  abstract class Carroceria {
 
     public String Carroceria;
 
-    public abstract String mostrarCarroceria();
+    public abstract String MostrarCarroceria();
 
     public String getCarroceria()
     {
@@ -15,4 +15,5 @@ public  abstract class Carroceria {
     {
         this.Carroceria = Carroceria;
     }
+
 }

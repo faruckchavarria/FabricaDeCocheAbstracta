@@ -6,6 +6,7 @@ public  abstract class Motor {
     public abstract String mostrarmotor();
 
     public String getMotor()
+
     {
         return motor;
     }
