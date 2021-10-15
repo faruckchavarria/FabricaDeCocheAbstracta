@@ -4,8 +4,8 @@ public class AstralLopelRines extends Rines {
 
     @Override
     public String mostrarRines() {
-        System.out.println("Descripcion \n");
-        String rines ="Marca Astral opel, con motor de 4 cilindros, 3.2, a 400 caballos de fuerza y 350 newton metro";
+        System.out.println("Descripcion de los rines de Astral \n");
+        String rines ="Los rines de Astral son en un unico tamanio de 15 pulgadas de diametro hechos de hierro";
         return rines;
     }
 }
