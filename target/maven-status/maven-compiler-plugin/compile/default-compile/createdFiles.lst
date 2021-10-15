@@ -1,1 +1,13 @@
+org\faruck\AstralopelMotor.class
+org\faruck\AstralLopelCarroceria.class
+org\faruck\AstralLopelRines.class
+org\faruck\FordMotor.class
+org\faruck\Rines.class
+org\faruck\FordFocusFactory.class
 org\faruck\App.class
+org\faruck\Carroceria.class
+org\faruck\CocheFactory.class
+org\faruck\OpelAstralFactory.class
+org\faruck\FordCarroceria.class
+org\faruck\FordRines.class
+org\faruck\Motor.class
